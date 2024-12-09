@@ -2,12 +2,11 @@
     <string name="app_name">Intent</string>
     <string name="Calculator">Калькулятор</string>
     <string name="Result">Поле вывода информации</string>
-    <string name="First">Первый элемент</string>
-    <string name="Second">Второй элемент</string>
+    <string name="First">Первое число</string>
+    <string name="Second">Второе число</string>
     <string name="Sum">+</string>
     <string name="dif">-</string>
     <string name="mult">*</string>
     <string name="div">/</string>
     <string name="ReturnResult">Передать данные</string>
-    <string name="ваы">Результат</string>
 </resources>
